@@ -1,0 +1,2 @@
+Three.js r158 (npm three@0.158.0), MIT License - see LICENSE.
+Files: three.module.js (build/), controls/OrbitControls.js (examples/jsm/controls/).
